@@ -1,0 +1,65 @@
+
+.button{
+ display: flex;
+justify-content: center;
+color: #ffffff;
+}
+
+
+
+
+
+  h1{
+    display: flex;
+  justify-content: center;
+  color: #ffffff;
+  font-family: 'Pompiere', sans-serif;
+  }
+
+  h2{
+    display: flex;
+  justify-content: center;
+  color: #ffffff;
+  font-family: 'Pompiere', sans-serif;
+  }
+
+  h3{
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    font-family: 'Pompiere', sans-serif;
+  }
+
+  h4{
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    font-family: 'Pompiere', sans-serif;
+    font-size: 20px;
+  }
+
+  img{
+    display: flex;
+  justify-content: center;
+  align-content:center;
+  border: 10px solid #640606;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+
+  }
+
+  body {
+    margin: 0;
+    background-image: url("redblack.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+  }
+
+  .title, .message {
+    display: none;
+  }
