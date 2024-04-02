@@ -14,9 +14,7 @@ console.log("meow")
 button.addEventListener("click", function(){
    let answer1 = input1.value;
    let answer2 = input2.value;
-
-
-
+   
 //Happy Man 1
 if (answer1 === "yes" && answer2 === "save it for later"){
    message.innerHTML = `<div class="insane1">
